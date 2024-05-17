@@ -1,0 +1,9 @@
+bitbucket pass - ATBBsTPW8rrUTZgcFD8bkCCWS8sZ44F1ADBC
+
+git init
+git status
+git add . / add __
+git branch -M main
+git commit -m 'msg'
+git remote  add origin link
+git push -u origin main 
