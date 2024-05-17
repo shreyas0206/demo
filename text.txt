@@ -1,9 +1,0 @@
-bitbucket pass - ATBBsTPW8rrUTZgcFD8bkCCWS8sZ44F1ADBC
-
-git init
-git status
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin link
-git push -u origin main
